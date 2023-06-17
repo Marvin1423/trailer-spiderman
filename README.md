@@ -1,6 +1,6 @@
 # Trailer Spiderman
 Site mostrando o trailer do novo filme do spiderman
-![image](./src/images/design-final.png)
+![image](./src/imagens/design-final.png)
 
 <div align="center" valign="top"><br>
  <h2>🕹️ Tecnologias Utilizadas</h2>
